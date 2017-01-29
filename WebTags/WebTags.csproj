@@ -46,16 +46,16 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Tags\drtb.js" />
-    <Content Include="Tags\drtb.min.js">
+    <Content Include="Current tags\drtb.js" />
+    <Content Include="Current tags\drtb.min.js">
       <DependentUpon>drtb.js</DependentUpon>
     </Content>
-    <Content Include="Tags\tag.js" />
-    <Content Include="Tags\tag.min.js">
+    <Content Include="Old tags\tag.js" />
+    <Content Include="Old tags\tag.min.js">
       <DependentUpon>tag.js</DependentUpon>
     </Content>
-    <Content Include="Tags\tag2.js" />
-    <Content Include="Tags\tag2.min.js">
+    <Content Include="Current tags\tag2.js" />
+    <Content Include="Current tags\tag2.min.js">
       <DependentUpon>tag2.js</DependentUpon>
     </Content>
   </ItemGroup>

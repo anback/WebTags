@@ -13,6 +13,6 @@
 
 DRTB.callback = function(userId){
     // When cookie matching is completed, this callback function
-    // will be called with the Mopedo userId. Add additional 
-    // logic here (external calls etc.).
+    // will be invoked with the Mopedo userId as argument. Add 
+    // additional logic here (external calls etc.).
 }
