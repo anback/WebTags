@@ -1,0 +1,5 @@
+C:\Users\erik\DRTB\WebTags\bin\Debug\WebTags.dll
+C:\Users\erik\DRTB\WebTags\bin\Debug\WebTags.pdb
+C:\Users\erik\DRTB\WebTags\obj\Debug\WebTags.csprojResolveAssemblyReference.cache
+C:\Users\erik\DRTB\WebTags\obj\Debug\WebTags.dll
+C:\Users\erik\DRTB\WebTags\obj\Debug\WebTags.pdb

@@ -1,0 +1,32 @@
+[
+  {
+    "outputFileName": "drtb.min.js",
+    "inputFiles": [
+      "drtb.js"
+    ]
+  },
+  {
+    "outputFileName": "tag.min.js",
+    "inputFiles": [
+      "tag.js"
+    ]
+  },
+  {
+    "outputFileName": "tag2.min.js",
+    "inputFiles": [
+      "tag2.js"
+    ]
+  },
+  {
+    "outputFileName": "drtbtest.min.min.js",
+    "inputFiles": [
+      "drtbtest.min.js"
+    ]
+  },
+  {
+    "outputFileName": "drtbtest.min.js",
+    "inputFiles": [
+      "drtbtest.js"
+    ]
+  }
+]
