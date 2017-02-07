@@ -58,6 +58,7 @@
     <Content Include="Current tags\tag2.min.js">
       <DependentUpon>tag2.js</DependentUpon>
     </Content>
+    <Content Include="README.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="bundleconfig.json" />
